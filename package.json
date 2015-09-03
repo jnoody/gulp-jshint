@@ -1,5 +1,5 @@
 {
-  "name": "gulp-jshint",
+  "name": "jnoody-gulp-jshint",
   "description": "JSHint plugin for gulp",
   "version": "1.11.2",
   "homepage": "http://github.com/spalger/gulp-jshint",
